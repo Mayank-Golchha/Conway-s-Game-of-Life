@@ -62,6 +62,19 @@ A large symmetric oscillator with a 3-generation cycle.
 
 ---
 
+## 🎮 How to Use
+
+- 🔲 **Step 1: Design your pattern**
+  - Press **Shift** once to **enter cell selection mode**.
+  - Click on the grid to **toggle cells on/off** (alive/dead).
+  
+- ▶️ **Step 2: Start the simulation**
+  - Press **Shift** again to **begin the simulation**.
+  - Watch the cells evolve over generations!
+
+> ⏸️ You can press Shift again to stop and modify the pattern.
+
+
 ## 🚀 Getting Started
 
 1. **Clone the repository**:
